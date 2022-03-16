@@ -1,6 +1,6 @@
 {
   "name": "draw.io",
-  "version": "16.5.1",
+  "version": "16.5.1-SST",
   "description": "diagrams.net desktop",
   "main": "electron.js",
   "scripts": {
